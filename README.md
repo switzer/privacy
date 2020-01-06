@@ -1,5 +1,6 @@
-# privacy
-Description of services where the more popular offerings use your data for their own benefit
+# Privacy Podcast Series
+
+Here are some digital services where the more popular offerings use your data for their own benefit
 
 * Email
 * Analytics
