@@ -4,16 +4,16 @@ Here are some digital services where the more popular offerings use your data fo
 
 ## Email
 
-Here are the major options:
+### Popular Services
 
 * Gmail
 * Outlook
 
-Here are the alternatives:
+### Alternatives
 
-(list out privacy focused options here)
+* *(list out privacy focused options here)*
 
-Here are some topics to cover:
+### Topics
 
 * Analyze the terms and conditions
 * Document what machine learning is - and how it can anayze data without humans looking
