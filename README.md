@@ -1,5 +1,16 @@
 # Privacy Podcast Series
 
+## Overview
+
+* How is data collected and used?
+ * Cookies, 1st vs 3rd party
+ * Cookie syncing
+ * wifi router email signups
+ * ecommerce company data
+ * Credit card data
+ * Beacons inside physical stores
+
+
 Here are some digital services where the more popular offerings use your data for their own benefit
 
 ## Email
